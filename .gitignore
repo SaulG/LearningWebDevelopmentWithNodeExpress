@@ -1,4 +1,4 @@
 # archivos emacs back-up
-*.~
+*~
 # carpeta de los modulos manejados por npm
 node_modules
